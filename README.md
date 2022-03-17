@@ -9,5 +9,5 @@ Welcome to my MCC repository. Here you will find some of the work my team and I 
 * In *Knight Move Game*, my professor designed a chessboard game. The objective was to elaborate the best heuristics to win the game.
 * In the beginning of the COVID-19 pandemic, the final project of the ML class was to find a way to predict COVID-19. My team and I decided to use MSD and clustering to find possible patients in risk.
 * *PSAs and Heuristic Search* was an assignment of Intelligent Systems; the objective was to design a heuristic that best solved a puzzle.
-* The *Treasure Hunter* project is similar to the one mentioned above, but a different puzzle.
+* The *Treasure Hunter* project is similar to the one mentioned above, but with a different puzzle.
 * For the final project of Applied Mathematics, my team and I programmed and effectively applied a visual cryptography method.
